@@ -1,6 +1,6 @@
 # Support Desk
 
-Ticket management system with MERN stack
+Service Desk Application with MERN stack
 
 • MERN stack project for create and manage tickets.
 
